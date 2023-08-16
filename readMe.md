@@ -205,4 +205,3 @@ In this article, you'll learn how to build a CRUD gRPC API server with Golang, M
     - gRPC Client to Delete a Post
 - Register the gRPC Services
 
-Read the entire article here: [https://codevoweb.com/crud-grpc-server-api-client-with-golang-and-mongodb](https://codevoweb.com/crud-grpc-server-api-client-with-golang-and-mongodb)
